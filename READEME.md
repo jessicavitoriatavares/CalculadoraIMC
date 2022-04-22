@@ -5,7 +5,7 @@ Aplicação console para calculos do IMC.
 
  - Calcula e apresenta o IMC
  - Apresenta a classificação do IMC
- - Informa quantos quilogramas está faltando ou excedendo de acordo com o peso normal
+
 
 ## Tecnologias Ultilizadas
 
