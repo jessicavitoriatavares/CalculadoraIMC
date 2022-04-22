@@ -1,16 +1,22 @@
-# Calculadora IMC
+# Calculadora IMC 
+Aplicação console para calculos do IMC.
 
-Aplicação console para cálculo do IMC.
+## Funcionalidades
 
-## Funcionaidades 
+ - Calcula e apresenta o IMC
+ - Apresenta a classificação do IMC
+ - Informa quantos quilogramas está faltando ou excedendo de acordo com o peso normal
 
-- Calcula o IMC
+## Tecnologias Ultilizadas
 
-## Tecnologias ultilizadas 
+ - dotnet
 
-- dotnet 2.1
-- Realize o clone do projeto no repositório e execute o comando: 
+## Como executar
+ 
+ Realize o clone do repositorio e execute o comando:
 
-dotnet run
+ ```
+ dotnet run
+ ```
 
-## Como executar 
+
